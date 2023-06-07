@@ -29,7 +29,8 @@
 
 
 ##  Platform Comparison 
-*UPD: Mempool Scan Time*
+*UPD: Mempool Scan Time:Increasing scan speed*
+
 | Platform      | Router Address  | Network | Mempool Scan Time |
 | ------------- |:---------------:| -------:| ----------------: |
 | Pancakeswap   | [0x10ED43C718714eb63d5aA57B78B54704E256024E](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e)| BSC     | 0.53 sec         |
