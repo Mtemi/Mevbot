@@ -31,4 +31,8 @@ _________________
 ___________________
 # 07/06/2023 +0.91 ETH 
 ![9](https://github.com/Xttekky/Test/assets/130660629/d57f31b4-3b5a-4c08-8afc-4bc59d13da3d)
+_______________________
+# 08/06/2023 +0.61 ETH
+![10](https://github.com/mitzamutza/Mev-bot/assets/130661562/8d2fd60a-b15a-44b0-970c-46cd8a52e1a7)
+
 
